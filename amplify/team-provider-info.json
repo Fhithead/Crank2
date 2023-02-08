@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crank-dev-124300-authRole",
+      "UnauthRoleArn": "arn:aws:iam::299164114698:role/amplify-crank-dev-124300-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::299164114698:role/amplify-crank-dev-124300-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-crank-dev-124300-deployment",
+      "UnauthRoleName": "amplify-crank-dev-124300-unauthRole",
+      "StackName": "amplify-crank-dev-124300",
+      "StackId": "arn:aws:cloudformation:us-east-1:299164114698:stack/amplify-crank-dev-124300/69c25610-a7e0-11ed-a0eb-12050885f037",
+      "AmplifyAppId": "d17hzwn3qq9vgd"
+    },
+    "categories": {
+      "api": {
+        "crank": {}
+      }
+    }
+  }
+}
